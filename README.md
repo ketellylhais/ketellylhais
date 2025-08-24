@@ -17,8 +17,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JDK](https://img.shields.io/badge/JDK-11%2B-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-336791?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 
 
