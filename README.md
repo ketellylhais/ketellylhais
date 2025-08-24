@@ -1,7 +1,7 @@
 # Olá, eu sou a Ketelly 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo **HTML, CSS, JavaScript e Python**  
+💻 Aprendendo **HTML, CSS, JavaScript e Java**  
 🚀 Em busca de estágio na área de desenvolvimento  
 
 ---
