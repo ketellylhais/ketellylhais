@@ -18,9 +18,6 @@
 
 
 
-![Ketelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketellylhais&show_icons=true&theme=radical)
-
-
 
 📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/ketellylhais/) | [Email](ketellylhaislimaalves@gmail.com)
 
